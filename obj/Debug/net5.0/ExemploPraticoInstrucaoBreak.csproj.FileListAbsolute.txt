@@ -1,0 +1,16 @@
+C:\xampp\htdocs\udemy\ExemploPraticoInstrucaoBreak\bin\Debug\net5.0\ExemploPraticoInstrucaoBreak.exe
+C:\xampp\htdocs\udemy\ExemploPraticoInstrucaoBreak\bin\Debug\net5.0\ExemploPraticoInstrucaoBreak.deps.json
+C:\xampp\htdocs\udemy\ExemploPraticoInstrucaoBreak\bin\Debug\net5.0\ExemploPraticoInstrucaoBreak.runtimeconfig.json
+C:\xampp\htdocs\udemy\ExemploPraticoInstrucaoBreak\bin\Debug\net5.0\ExemploPraticoInstrucaoBreak.runtimeconfig.dev.json
+C:\xampp\htdocs\udemy\ExemploPraticoInstrucaoBreak\bin\Debug\net5.0\ExemploPraticoInstrucaoBreak.dll
+C:\xampp\htdocs\udemy\ExemploPraticoInstrucaoBreak\bin\Debug\net5.0\ref\ExemploPraticoInstrucaoBreak.dll
+C:\xampp\htdocs\udemy\ExemploPraticoInstrucaoBreak\bin\Debug\net5.0\ExemploPraticoInstrucaoBreak.pdb
+C:\xampp\htdocs\udemy\ExemploPraticoInstrucaoBreak\obj\Debug\net5.0\ExemploPraticoInstrucaoBreak.csproj.AssemblyReference.cache
+C:\xampp\htdocs\udemy\ExemploPraticoInstrucaoBreak\obj\Debug\net5.0\ExemploPraticoInstrucaoBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\udemy\ExemploPraticoInstrucaoBreak\obj\Debug\net5.0\ExemploPraticoInstrucaoBreak.AssemblyInfoInputs.cache
+C:\xampp\htdocs\udemy\ExemploPraticoInstrucaoBreak\obj\Debug\net5.0\ExemploPraticoInstrucaoBreak.AssemblyInfo.cs
+C:\xampp\htdocs\udemy\ExemploPraticoInstrucaoBreak\obj\Debug\net5.0\ExemploPraticoInstrucaoBreak.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\udemy\ExemploPraticoInstrucaoBreak\obj\Debug\net5.0\ExemploPraticoInstrucaoBreak.dll
+C:\xampp\htdocs\udemy\ExemploPraticoInstrucaoBreak\obj\Debug\net5.0\ref\ExemploPraticoInstrucaoBreak.dll
+C:\xampp\htdocs\udemy\ExemploPraticoInstrucaoBreak\obj\Debug\net5.0\ExemploPraticoInstrucaoBreak.pdb
+C:\xampp\htdocs\udemy\ExemploPraticoInstrucaoBreak\obj\Debug\net5.0\ExemploPraticoInstrucaoBreak.genruntimeconfig.cache
